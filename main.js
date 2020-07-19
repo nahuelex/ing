@@ -165,7 +165,7 @@ function check3(){
   var text8 = document.getElementById("tres_8").value;
  
 
-  if(text1.trim() == "3")
+  if(text1.trim() == "2")
     tres_1.style.color = "green";
     else
       tres_1.style.color = "red";
@@ -187,7 +187,7 @@ function check3(){
   else
     tres_4.style.color = "red";
 
-  if(text5.trim() == "2")
+  if(text5.trim() == "3")
     tres_5.style.color = "green";
   else
     tres_5.style.color = "red";
@@ -261,13 +261,13 @@ if(text9.trim() == "10")
       tres_10.style.color = "red";
   
 
-  if(text11.trim() == "1")
+  if(text11.trim() == "4")
   tres_11.style.color = "green";
   else
       tres_11.style.color = "red";
 
 
- if(text12.trim() == "6")
+ if(text12.trim() == "1")
     tres_12.style.color="green";
   else
     tres_12.style.color = "red";
@@ -277,12 +277,12 @@ if(text9.trim() == "10")
   else
     tres_13.style.color = "red";
 
-  if(text14.trim() == "")
+  if(text14.trim() == "5")
    tres_14.style.color = "green";
   else
     tres_14.style.color = "red";
 
-  if(text15.trim() == "7")
+  if(text15.trim() == "6")
    tres_15.style.color = "green";
    else
     tres_15.style.color = "red";
@@ -292,12 +292,12 @@ if(text9.trim() == "10")
     else
       tres_16.style.color = "red";
 
-      if(text17.trim() == "9")
+      if(text17.trim() == "7")
      tres_17.style.color = "green";
     else
       tres_17.style.color = "red";
 
-      if(text18.trim() == "5")
+      if(text18.trim() == "9")
      tres_18.style.color = "green";
     else
       tres_18.style.color = "red";
